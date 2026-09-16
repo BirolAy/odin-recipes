@@ -3,19 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chicken Mushroom Soup</title>
+  <title>Chicken mushroom soup</title>
 </head>
 <body>
 
-  <h1>Chicken Mushroom Soup</h1>
+  <h1>Chicken mushroom soup</h1>
 
   <img 
     src="https://www.allrecipes.com/thmb/qOcmlu77pOzliYo1aQa19jr0Bfw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/11946422-Rotisserie-Chicken-Mushroom-Soup-PIFS-Beauty-4x3-5bc0580304bc437d9c6eccdb5d94ff49.jpg"
-    alt="Chicken Mushroom Soup"
+    alt="Chicken mushroom soup"
     width="400"
   >
 
-  <h6>Credit: Chef John</h6>
+  <h6>Credit: Photographer: Jen Causey / Food Styling: Chelsea Zimmer / Prop Styling: Christina Daley</h6>
 
   <p>
     “This rotisserie chicken mushroom soup tastes like it simmered for hours, but is easy enough for weeknights thanks to a brilliant shortcut. Creamy, cozy, and packed with flavor, it’s a restaurant-worthy meal at home.”
@@ -33,22 +33,22 @@
     <li>1 cup heavy cream</li>
     <li>1 cup shredded mozzarella cheese</li>
     <li>1/2 cup grated Parmesan cheese</li>
-    <li>3 cups cubed or shredded rotisserie chicken</li>
+    <li>3 cups shredded rotisserie chicken</li>
     <li>Chopped fresh parsley</li>
   </ul>
 
   <h2>Steps</h2>
   <ol>
-    <li>Melt butter in a large pot over medium heat.</li>
-    <li>Add sliced mushrooms and cook until softened.</li>
-    <li>Stir in minced garlic and cook until fragrant.</li>
-    <li>Pour in chicken bone broth and bring to a gentle simmer.</li>
-    <li>Add cantanzaro herbs, paprika, and garlic powder.</li>
-    <li>Stir in heavy cream and continue simmering.</li>
-    <li>Add mozzarella and Parmesan, stirring until melted and smooth.</li>
+    <li>Melt the butter in a large pot over medium heat.</li>
+    <li>Add mushrooms and cook until softened.</li>
+    <li>Stir in garlic and cook until fragrant.</li>
+    <li>Pour in chicken bone broth and bring to a simmer.</li>
+    <li>Add herbs, paprika, and garlic powder.</li>
+    <li>Stir in heavy cream and simmer gently.</li>
+    <li>Add mozzarella and Parmesan, stirring until melted.</li>
     <li>Mix in shredded rotisserie chicken.</li>
-    <li>Simmer until the soup thickens and becomes creamy.</li>
-    <li>Top with chopped fresh parsley and serve warm.</li>
+    <li>Simmer until thick and creamy.</li>
+    <li>Top with fresh parsley and serve warm.</li>
   </ol>
 
   <p><a href="../index.html">Home</a></p>
